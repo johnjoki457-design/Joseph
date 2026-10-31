@@ -1,0 +1,6 @@
+{
+  "name": "Murrel Fish Videos",
+  "description": "Watch, explore, and learn about Murrel fish farming, feeding techniques, breeding, hatchery management, and culinary delights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
